@@ -1,0 +1,6 @@
+framework module AcmeListKit {
+  umbrella header "AcmeListKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

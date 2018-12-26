@@ -1,2 +1,2 @@
-# SLAcmeListKit
-tableView is encapsulated to the extreme
+# AcmeListKit
+极致封装列表

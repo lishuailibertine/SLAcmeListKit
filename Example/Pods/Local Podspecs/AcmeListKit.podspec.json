@@ -1,0 +1,22 @@
+{
+  "name": "AcmeListKit",
+  "version": "0.0.1",
+  "summary": "A short description of SLListComponent.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lishuailibertine/AcmeListKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lishuai19@yeah.net": "lishuai19@yeah.net"
+  },
+  "source": {
+    "git": "https://github.com/lishuailibertine/AcmeListKit.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AcmeListKit/Classes/**/*"
+}

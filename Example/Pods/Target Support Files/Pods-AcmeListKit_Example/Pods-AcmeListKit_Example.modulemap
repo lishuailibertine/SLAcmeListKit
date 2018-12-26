@@ -1,0 +1,6 @@
+framework module Pods_AcmeListKit_Example {
+  umbrella header "Pods-AcmeListKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
